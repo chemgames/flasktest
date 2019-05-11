@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="test3.app.models.datetime" />
+          <option value="app.flask_sqlalchemy" />
         </list>
       </option>
     </inspection_tool>
